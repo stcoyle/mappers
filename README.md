@@ -7,7 +7,10 @@ example: directories for opening files , ftp client, or rows in the xlsx files w
 
 
 mapper.sh - runs everything in order
+
 deleteXLSX.py - python script to remove old files from directories
+
 multi.py - script to parse info out of xlsx files into one csv file
+
 Waldo.py - script to create heat map with google overlay. 
 
